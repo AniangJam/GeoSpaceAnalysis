@@ -23,6 +23,7 @@ Ce projet englobait une série complète d'exercices pratiques et d'applications
 
 **Mapclassify :** Utilisé pour la classification des données géospatiales en vue de visualisations plus complexes.
 
+
 **Points forts du projet :**
 
 **Python pour l'analyse géospatiale :**
@@ -44,4 +45,5 @@ Utilisé Jupyter Notebook et Google Colab pour un développement interactif, fac
 Employé Mapclassify pour la classification avancée des données géospatiales, permettant des visualisations et des analyses plus nuancées.
 
 **Impact et Application :**
+
 Ce projet a non seulement renforcé ma compréhension théorique et mes compétences pratiques en analyse géospatiale mais m'a également équipé pour entreprendre des projets de SIG complexes, nécessitant une manipulation avancée, une analyse et une visualisation des données spatiales. Il constitue une base solide pour de futurs projets et recherches dans le domaine des SIG et démontre ma capacité à intégrer divers outils et techniques pour des solutions géospatiales innovantes.
