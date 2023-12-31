@@ -8,10 +8,11 @@
 
 
 
-Objectif : Utiliser Python et une série de bibliothèques spécialisées pour développer des compétences approfondies en analyse géospatiale, permettant le traitement, l'analyse et la visualisation de données spatiales complexes.
+**Objectif** : Utiliser Python et une série de bibliothèques spécialisées pour développer des compétences approfondies en analyse géospatiale, permettant le traitement, l'analyse et la visualisation de données spatiales complexes.
 
 **Résumé du projet :**
 Ce projet englobait une série complète d'exercices pratiques et d'applications théoriques, visant à maîtriser l'analyse géospatiale en utilisant Python. Il a impliqué l'utilisation de plusieurs bibliothèques et outils pour traiter divers types de données spatiales, effectuer des analyses géométriques, et produire des visualisations détaillées.
+
 
 **Bibliothèques et outils utilisés :**
 
