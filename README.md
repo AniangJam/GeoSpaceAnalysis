@@ -7,7 +7,6 @@
 ![image](https://github.com/AniangJam/GeoSpaceAnalysis/assets/155065772/7da87144-9e2e-4b87-9399-819596498ca0)
 
 
-
 **Objectif** : Utiliser Python et une série de bibliothèques spécialisées pour développer des compétences approfondies en analyse géospatiale, permettant le traitement, l'analyse et la visualisation de données spatiales complexes.
 
 **Résumé du projet :**
